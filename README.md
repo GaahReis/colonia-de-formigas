@@ -1,7 +1,7 @@
 # colonia-de-formigas
 
 Feito por:
-Gabriel Henrique Reis
+Gabriel Henrique Reis e
 Marcel Losso
 
 ## Contexto
